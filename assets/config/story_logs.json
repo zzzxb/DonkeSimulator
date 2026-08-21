@@ -1,0 +1,1091 @@
+{
+  "title": "磨坊主日记 · 残页一百则",
+  "subtitle": "磨坊主家族的秘密，藏在每一圈石磨里。",
+  "logs": [
+    {
+      "id": "story_001",
+      "chapter": 1,
+      "index": 1,
+      "title": "初到磨坊",
+      "content": "三月的风把驴声送过山坡。爹说，磨坊缺人手，你明天就去。",
+      "unlock_conditions": [
+        { "type": "NONE", "value": "" }
+      ]
+    },
+    {
+      "id": "story_002",
+      "chapter": 1,
+      "index": 2,
+      "title": "沉默的磨盘",
+      "content": "石磨比我想象的大。它坐在磨坊中央，像一只蹲了三百年的老龟。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1" }
+      ]
+    },
+    {
+      "id": "story_003",
+      "chapter": 1,
+      "index": 3,
+      "title": "摇磨",
+      "content": "第一次摇磨，胳膊酸了三天。爹说，摇久了就不酸了。他没说，心也会酸。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "3" }
+      ]
+    },
+    {
+      "id": "story_004",
+      "chapter": 1,
+      "index": 4,
+      "title": "磨盘的呼吸",
+      "content": "磨盘转起来，整个屋子都跟着发抖。像它也有呼吸。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "5" }
+      ]
+    },
+    {
+      "id": "story_005",
+      "chapter": 1,
+      "index": 5,
+      "title": "影子",
+      "content": "面粉是白的，磨出来的影子却是黑的。夜里我总看见那道影子在墙上转。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "7" }
+      ]
+    },
+    {
+      "id": "story_006",
+      "chapter": 1,
+      "index": 6,
+      "title": "老磨",
+      "content": "村里人管磨坊叫老磨。叫得久了，好像它真有岁数，真有脾气。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "9" }
+      ]
+    },
+    {
+      "id": "story_007",
+      "chapter": 1,
+      "index": 7,
+      "title": "十二步",
+      "content": "我数过：磨盘一圈，正好十二步。我围着它走，它围着我转。说不清谁在绕谁。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "12" }
+      ]
+    },
+    {
+      "id": "story_008",
+      "chapter": 1,
+      "index": 8,
+      "title": "黑与白",
+      "content": "爹教我认面粉：黑的是粗，黄的是中，白的是细。他说，人一辈子，也就从黑磨到白。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "18" }
+      ]
+    },
+    {
+      "id": "story_009",
+      "chapter": 1,
+      "index": 9,
+      "title": "三寸",
+      "content": "磨坊的地面比门口低三寸。爹说这是磨了几百年磨出来的。三百年的脚印，都沉在这三寸里。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "30" }
+      ]
+    },
+    {
+      "id": "story_010",
+      "chapter": 1,
+      "index": 10,
+      "title": "悄悄话",
+      "content": "夜里听得见石头磨石头的声音，细细的，像有人在你耳边说悄悄话。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "42" }
+      ]
+    },
+    {
+      "id": "story_011",
+      "chapter": 1,
+      "index": 11,
+      "title": "五铜板",
+      "content": "第一袋面粉换回五个铜板。我攥着它们，觉得是从石头里生出来的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "52" }
+      ]
+    },
+    {
+      "id": "story_012",
+      "chapter": 1,
+      "index": 12,
+      "title": "不能停",
+      "content": "爹说磨盘不能停，停了就不顺。我问怎么个不顺法。他没答，只把驴背上的绳又紧了一圈。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "62" }
+      ]
+    },
+    {
+      "id": "story_013",
+      "chapter": 1,
+      "index": 13,
+      "title": "无窗",
+      "content": "磨坊没有窗。爹说磨怕见光，见了光就磨不快。可我觉得，是它不想让我们看清它。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "72" }
+      ]
+    },
+    {
+      "id": "story_014",
+      "chapter": 1,
+      "index": 14,
+      "title": "磨盘是温的",
+      "content": "我偷偷摸了一把磨盘。石面是温的，像刚睡醒的牲口的脊背。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "82" }
+      ]
+    },
+    {
+      "id": "story_015",
+      "chapter": 1,
+      "index": 15,
+      "title": "链条",
+      "content": "爹指着磨眼说：粮食养着磨盘，磨盘养着我们，我们养着驴。谁也别问这链条的头在哪儿。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "92" }
+      ]
+    },
+    {
+      "id": "story_016",
+      "chapter": 2,
+      "index": 16,
+      "title": "买驴",
+      "content": "驴贩子说这是头好驴。它看了我一眼——那眼神太熟了，熟得让我心里发毛。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "211" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_017",
+      "chapter": 2,
+      "index": 17,
+      "title": "归来",
+      "content": "驴子第一次进磨坊，不用人教就站到了磨道里。爹说它聪明。我没敢说，我觉得它是回来了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "250" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_018",
+      "chapter": 2,
+      "index": 18,
+      "title": "沉默的驴",
+      "content": "村里别的驴都叫，就我们家的驴，闷着头，一圈一圈，像在数什么。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "300" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_019",
+      "chapter": 2,
+      "index": 19,
+      "title": "阿灰",
+      "content": "我叫它阿灰。叫到第七声，它才回头。像在等我把一个名字叫够。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "350" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_020",
+      "chapter": 2,
+      "index": 20,
+      "title": "缺口",
+      "content": "阿灰的右耳有个缺口。爹说买来就有。可我记得，祖父的右耳也有一个。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "400" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_021",
+      "chapter": 2,
+      "index": 21,
+      "title": "眼神",
+      "content": "夏天阿灰渴了会自己停下来。我给它打水，它不喝，先看我。看了很久，才低头。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "450" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_022",
+      "chapter": 2,
+      "index": 22,
+      "title": "鞭子",
+      "content": "爹说驴拉累了会睡，睡了就要抽。我抽过一次。阿灰醒来，一声不吭接着拉。从那以后我总觉得它在记仇。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "500" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_023",
+      "chapter": 2,
+      "index": 23,
+      "title": "行礼",
+      "content": "阿灰睡觉是站着的，头垂到胸口，像在给谁行礼。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "550" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_024",
+      "chapter": 2,
+      "index": 24,
+      "title": "舔伤",
+      "content": "半夜我看见阿灰站在磨盘边上，拿舌头一遍一遍舔磨盘上的缝。像在舔一个老朋友的伤。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "630" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_025",
+      "chapter": 2,
+      "index": 25,
+      "title": "秋日的眼睛",
+      "content": "秋天阿灰拉得格外快，眼睛亮亮的。爹说秋收粮多，驴也高兴。我觉得它是闻到了什么。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "700" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_026",
+      "chapter": 2,
+      "index": 26,
+      "title": "冬日的抖",
+      "content": "冬天阿灰会发抖。它抖的时候，磨盘反而转得更稳。像是把抖都给了驴，把稳留给了自己。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "800" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_027",
+      "chapter": 2,
+      "index": 27,
+      "title": "旧棉被",
+      "content": "我给它裹了一床旧棉被。夜里它不抖了。可第二天早上，棉被整整齐齐叠在槽边，像有人替它叠的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "900" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_028",
+      "chapter": 2,
+      "index": 28,
+      "title": "白尾尖",
+      "content": "阿灰的尾巴尖是白的。村里老人看见，都绕着走。后来我才知道，祖父那辈的驴，尾巴尖也是白的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_029",
+      "chapter": 2,
+      "index": 29,
+      "title": "听我说",
+      "content": "我跟阿灰说烦心事。它听着，耳朵一动一动。说到爹的死，它停下了，把脸埋进我掌心。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1100" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_030",
+      "chapter": 2,
+      "index": 30,
+      "title": "观众",
+      "content": "我哭完抬头，看见磨盘的影子投在墙上，慢慢转着。像一个看了一百年的观众，终于等到了开场。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1200" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_031",
+      "chapter": 3,
+      "index": 31,
+      "title": "记号",
+      "content": "我在磨盘底下刻了个记号。第二天，记号没了，磨盘挪了半寸。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1300" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_032",
+      "chapter": 3,
+      "index": 32,
+      "title": "被转过的记号",
+      "content": "我换了个地方，凿得深深的。第三天，记号还在——只是换了个方向。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1400" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_033",
+      "chapter": 3,
+      "index": 33,
+      "title": "磨盘底下",
+      "content": "我撬开磨盘看过，底下没有土，黑漆漆的，一直往下。我把石板盖回去，一夜没睡。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1500" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_034",
+      "chapter": 3,
+      "index": 34,
+      "title": "会变的石头",
+      "content": "我量过磨盘的周长，三遍，三个数。石头自己会变。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1600" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_035",
+      "chapter": 3,
+      "index": 35,
+      "title": "空转",
+      "content": "半夜磨盘自己响，转半圈，停一停，再转半圈。磨道里空空的，没有驴。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1700" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_036",
+      "chapter": 3,
+      "index": 36,
+      "title": "蹄印",
+      "content": "我在磨坊里撒了层灰。第二天早上，灰上有一圈一圈的蹄印——不是驴的，比驴小，比人圆。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1800" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_037",
+      "chapter": 3,
+      "index": 37,
+      "title": "铁匠的酒话",
+      "content": "铁匠说那磨盘的轴是他祖上打的。喝多了又说：那轴不是铁，是骨头。第二天他死活不认。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1900" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_038",
+      "chapter": 3,
+      "index": 38,
+      "title": "敲磨盘",
+      "content": "我拿凿子敲了敲磨盘。实心的石头该是闷的。它响起来，却空空的，像一口井。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "2000" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_039",
+      "chapter": 3,
+      "index": 39,
+      "title": "磨盘里的河",
+      "content": "我把耳朵贴上去听了半宿。石头里面，有很轻很轻的水声，像一条河在磨盘肚子里流了一百年。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "2300" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_040",
+      "chapter": 3,
+      "index": 40,
+      "title": "旧裂",
+      "content": "磨盘上有一道旧裂，爹说是雷劈的。我凑近看，那道裂的走向，像一个人伸出手。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "2600" },
+        { "type": "ITEM", "value": "mill:2" }
+      ]
+    },
+    {
+      "id": "story_041",
+      "chapter": 3,
+      "index": 41,
+      "title": "不想动",
+      "content": "我试着搬动磨盘，纹丝不动。可我知道它不是不能动，是不想动。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "2900" },
+        { "type": "ITEM", "value": "mill:3" }
+      ]
+    },
+    {
+      "id": "story_042",
+      "chapter": 3,
+      "index": 42,
+      "title": "铜钱与黑麦",
+      "content": "我垫了一枚铜钱在磨盘底下。第二天铜钱不见了，多了一粒黑麦。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "3200" },
+        { "type": "ITEM", "value": "mill:3" }
+      ]
+    },
+    {
+      "id": "story_043",
+      "chapter": 3,
+      "index": 43,
+      "title": "黑麦",
+      "content": "我把黑麦种在院子里。长出来的麦穗是黑的，麦粒却白得像面粉。磨出来的面粉，是黑的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "3500" },
+        { "type": "ITEM", "value": "mill:3" }
+      ]
+    },
+    {
+      "id": "story_044",
+      "chapter": 3,
+      "index": 44,
+      "title": "账本",
+      "content": "爹的账本里夹着一页纸，只有一行字：磨盘不是我们的，我们只是替它转。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "3800" },
+        { "type": "ITEM", "value": "mill:3" }
+      ]
+    },
+    {
+      "id": "story_045",
+      "chapter": 3,
+      "index": 45,
+      "title": "烧纸",
+      "content": "我把那页纸烧了。火苗蹿起来的时候，磨盘轻轻响了一声。我分不清，它是叹气，还是笑。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "4100" },
+        { "type": "ITEM", "value": "mill:3" }
+      ]
+    },
+    {
+      "id": "story_046",
+      "chapter": 4,
+      "index": 46,
+      "title": "祖母的遗言",
+      "content": "祖母临终攥着我的手说：别让驴累倒。它会记得，所有的驴都会记得。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "4500" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_047",
+      "chapter": 4,
+      "index": 47,
+      "title": "只有一个孩子",
+      "content": "磨坊主家世世代代只有一个孩子。不是生不出第二个，是第二个养不活。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "4900" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_048",
+      "chapter": 4,
+      "index": 48,
+      "title": "族谱",
+      "content": "我翻过族谱。每一代的名字旁边，都有一行小字：某年某月，添驴一头。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "5300" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_049",
+      "chapter": 4,
+      "index": 49,
+      "title": "祖父的坟",
+      "content": "祖父的坟朝东。可他生前最讨厌朝东。碑是后立的，立碑的人已经说不清了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "5700" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_050",
+      "chapter": 4,
+      "index": 50,
+      "title": "哄驴的歌",
+      "content": "祖父会唱一首哄驴的歌。他唱的时候，驴都竖着耳朵听。他走了以后，夜里磨坊里偶尔还会飘出那个调子。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "6100" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_051",
+      "chapter": 4,
+      "index": 51,
+      "title": "磨是姓",
+      "content": "我说磨不是姓。爹说，你再看族谱。族谱第一页，写的就是一个磨字。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "6500" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_052",
+      "chapter": 4,
+      "index": 52,
+      "title": "半字",
+      "content": "那半个字被水洇了。我拿灯照了半宿——不是人姓，是磨。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "6900" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_053",
+      "chapter": 4,
+      "index": 53,
+      "title": "铜镜",
+      "content": "祖母的嫁妆里有一面铜镜，镜背刻着磨盘的纹样。我照过那镜子，镜子里的人，站在磨道里。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "7300" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_054",
+      "chapter": 4,
+      "index": 54,
+      "title": "四个影子",
+      "content": "我数了数，镜子里一共有四个人影。我身后，只有我一个。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "7700" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_055",
+      "chapter": 4,
+      "index": 55,
+      "title": "认一认",
+      "content": "祖母说，磨坊主家的孩子，生下来第一声哭，要抱进磨坊让磨盘认一认。我就是这么被抱进去的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "8100" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_056",
+      "chapter": 4,
+      "index": 56,
+      "title": "一夜的磨",
+      "content": "爹走的那天晚上，磨盘自己转了一整夜。天亮时磨道里干干净净，可磨盘底下多了一小撮面粉。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "8500" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_057",
+      "chapter": 4,
+      "index": 57,
+      "title": "白面粉",
+      "content": "那撮面粉白得不像话。我蘸了一点放进嘴里。不咸，不甜，是温的，像谁的体温。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "8900" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_058",
+      "chapter": 4,
+      "index": 58,
+      "title": "磕头",
+      "content": "我跪在磨盘前磕了三个头。磕完我忽然想哭——我分不清，我磕的是爹，还是磨。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "9300" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_059",
+      "chapter": 4,
+      "index": 59,
+      "title": "三百年",
+      "content": "村里的老人说，磨坊三百年没换过磨盘。换过的，是拉磨的人。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "9700" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_060",
+      "chapter": 4,
+      "index": 60,
+      "title": "下一家",
+      "content": "老人说，等哪天磨盘底下那撮面粉攒满了，就轮到下一家了。我没敢问，下一家是谁。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "11000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_061",
+      "chapter": 5,
+      "index": 61,
+      "title": "战乱",
+      "content": "战乱来了。官差站在磨坊门口说，每户要缴军粮。我家只有面。面也行，按石算。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "16000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_062",
+      "chapter": 5,
+      "index": 62,
+      "title": "不会停的军粮",
+      "content": "缴完一石，要两石。缴完两石，要四石。军粮和磨盘一样，是不会停的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "30000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_063",
+      "chapter": 5,
+      "index": 63,
+      "title": "记账的驴",
+      "content": "阿灰瘦了。我拿麸皮喂它。它吃得慢，一边吃一边看我，像在替我记账。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "35000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_064",
+      "chapter": 5,
+      "index": 64,
+      "title": "和尚的存粮",
+      "content": "庙里的和尚说，给神缴的不算缴，算存。存得越多，来世越好。我问来世还拉磨吗？他没答。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "40000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_065",
+      "chapter": 5,
+      "index": 65,
+      "title": "翻倍",
+      "content": "香火钱一倍一倍往上翻。一斗、两斗、四斗、八斗、十六斗。我缴到第十六斗的时候，手抖得抓不住秤。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "45000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_066",
+      "chapter": 5,
+      "index": 66,
+      "title": "下一世",
+      "content": "和尚说，神记得你，下辈子就不用拉磨了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "50000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_067",
+      "chapter": 5,
+      "index": 67,
+      "title": "无脸的像",
+      "content": "我梦见了那尊像。没有脸，坐在面粉堆上。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "55000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_068",
+      "chapter": 5,
+      "index": 68,
+      "title": "神鼓",
+      "content": "庙里有一面鼓，击一下，消一灾。我击了。鼓声闷闷的，像敲在磨盘上。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "60000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_069",
+      "chapter": 5,
+      "index": 69,
+      "title": "祭粮",
+      "content": "战乱里死的人多。人死了要磨祭粮。我磨的祭粮，是黑的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "65000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_070",
+      "chapter": 5,
+      "index": 70,
+      "title": "拿驴抵",
+      "content": "官差又来。我说磨不出那么多。那就拿驴抵。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "70000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_071",
+      "chapter": 5,
+      "index": 71,
+      "title": "藏驴",
+      "content": "我把阿灰藏在磨盘后面。官差走了，阿灰探出头，眼睛湿湿的，像什么都懂。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "75000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_072",
+      "chapter": 5,
+      "index": 72,
+      "title": "神要什么",
+      "content": "我去了一趟神庙。没带粮，只带了一句话：神啊，你要的到底是粮，还是人？",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "80000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_073",
+      "chapter": 5,
+      "index": 73,
+      "title": "纸上的话",
+      "content": "和尚在供桌底下捡到一片纸：你以为是你驱使驴，还是磨盘驱使着你？不是他写的，也不是我写的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "85000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_074",
+      "chapter": 5,
+      "index": 74,
+      "title": "算不清的贡",
+      "content": "我把这些年缴的粮加了一遍——一、二、四、八、十六……数字大得数不清。可磨盘转一圈，还是刚好一百二十步。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "90000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_075",
+      "chapter": 5,
+      "index": 75,
+      "title": "战乱停了",
+      "content": "战乱停了那天，官差说不用缴了。我跪在磨坊里哭。阿灰走过来蹭我。我抬头，看见磨盘上那撮白面粉，又厚了一点。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "95000" },
+        { "type": "ITEM", "value": "strength:5" }
+      ]
+    },
+    {
+      "id": "story_076",
+      "chapter": 6,
+      "index": 76,
+      "title": "数圈",
+      "content": "我开始数磨盘的圈数。有人说不疯，我不在乎。磨盘在乎就行。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "100000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_077",
+      "chapter": 6,
+      "index": 77,
+      "title": "同一个数",
+      "content": "数到第三十七圈，我发现阿灰的脚步和我数的圈是同一个数。我停，它也停。我数，它就拉。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "150000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_078",
+      "chapter": 6,
+      "index": 78,
+      "title": "快了",
+      "content": "第四十一圈，我做了一个梦。磨盘没有嘴，可我听得见：快了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "200000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_079",
+      "chapter": 6,
+      "index": 79,
+      "title": "四十九圈之后",
+      "content": "我问爹的鬼魂，四十九圈之后会怎样？他在磨道里转了很久，说你会变成它的一部分。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "250000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_080",
+      "chapter": 6,
+      "index": 80,
+      "title": "四十九",
+      "content": "族谱上每一代都记着四十九这个数。有的写在生日边上，有的写在死日边上。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "300000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_081",
+      "chapter": 6,
+      "index": 81,
+      "title": "砸镜",
+      "content": "我把祖母的铜镜砸了。镜子里没有碎玻璃，只有一层面粉，白的，厚的。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "350000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_082",
+      "chapter": 6,
+      "index": 82,
+      "title": "镜中粉",
+      "content": "我把那层面粉拿去磨，磨出来的还是面粉。镜子里的人，早就被磨成粉了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "400000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_083",
+      "chapter": 6,
+      "index": 83,
+      "title": "该你了",
+      "content": "阿灰老了，拉不动了。我给它卸了套。它站在磨道边上看着我，像在说：该你了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "450000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_084",
+      "chapter": 6,
+      "index": 84,
+      "title": "最后一草",
+      "content": "我喂了阿灰最后一把草。它嚼完，走到磨盘边上，卧下，把脸贴着磨盘。天亮的时候，它已经凉了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "500000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_085",
+      "chapter": 6,
+      "index": 85,
+      "title": "小驴",
+      "content": "我把它埋在后山。第二天早上，磨坊门口站着一头小驴，毛色灰灰的，尾巴尖是白的，右耳有个缺口。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "550000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_086",
+      "chapter": 6,
+      "index": 86,
+      "title": "接班",
+      "content": "小驴进磨坊，自己站进了磨道。我蹲在地上哭了很久。哭完站起来给它套上绳。它回头看我，那眼神像阿灰，像祖父，像我自己。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "600000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_087",
+      "chapter": 6,
+      "index": 87,
+      "title": "热身",
+      "content": "数到第四十八圈。那天晚上，磨盘自己转了半圈，停住，又转了半圈，像在热身。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "650000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_088",
+      "chapter": 6,
+      "index": 88,
+      "title": "准备",
+      "content": "我把账本烧了，把镜子碎片埋了，把爹的骨灰撒在磨道里。我做了所有准备——可我连要准备什么都不知道。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "700000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_089",
+      "chapter": 6,
+      "index": 89,
+      "title": "两个影子",
+      "content": "那天晚上小驴没睡，站在磨盘前，一动不动。月光把它的影子拉得很长，墙上的影子，是两个人。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "750000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_090",
+      "chapter": 6,
+      "index": 90,
+      "title": "接手",
+      "content": "翻开最后一页族谱，只有一行淡淡的字：第四十九代，磨坊主，今夜接手。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "800000" },
+        { "type": "ITEM", "value": "abacus:1" }
+      ]
+    },
+    {
+      "id": "story_091",
+      "chapter": 7,
+      "index": 91,
+      "title": "第四十九圈",
+      "content": "第四十九圈，我亲手推的。磨盘转过去的时候，我听见石头里传来水声、鼓声、马蹄声、驴叫声，还有我自己的心跳。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "900000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_092",
+      "chapter": 7,
+      "index": 92,
+      "title": "不害怕",
+      "content": "转完那一刻，我不害怕了。我站在磨道中央，看见磨盘底下那撮白面粉，满得溢了出来。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "950000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_093",
+      "chapter": 7,
+      "index": 93,
+      "title": "一个圈",
+      "content": "那撮面粉流成一条线，绕着我画了一个圈。大得像整个磨坊，又小得只容得下我一个人。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1000000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_094",
+      "chapter": 7,
+      "index": 94,
+      "title": "茧",
+      "content": "我看自己的手。手上的茧，和爹的一样，和祖父的一样，和族谱上每一个磨坊主的一样。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1500000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_095",
+      "chapter": 7,
+      "index": 95,
+      "title": "推与被推",
+      "content": "我终于明白：不是我在推磨盘，是磨盘在推着我。一圈，一圈，从黑磨到白，从生磨到死。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "2000000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_096",
+      "chapter": 7,
+      "index": 96,
+      "title": "卧下的驴",
+      "content": "小驴走到我身边，卧下了。它看我的眼神，像我看爹，像爹看祖父。我摸它的头，它没有躲。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "2500000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_097",
+      "chapter": 7,
+      "index": 97,
+      "title": "听歌",
+      "content": "我坐下来，和驴一起听磨盘响。那声音不再可怕。它像一首唱了三百年的歌，终于有人坐下来把它听完。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "3000000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_098",
+      "chapter": 7,
+      "index": 98,
+      "title": "刻字",
+      "content": "我把那句话刻在磨盘边上，凿得很深：你以为是你驱使驴，还是磨盘驱使着你？",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "3500000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_099",
+      "chapter": 7,
+      "index": 99,
+      "title": "磨盘停住了",
+      "content": "刻完最后一个字，磨盘停住了。三百年来第一次。然后，它开始慢慢往回转。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "4000000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    },
+    {
+      "id": "story_100",
+      "chapter": 7,
+      "index": 100,
+      "title": "下一家",
+      "content": "门外的天空越来越远，磨坊越来越小，小成一粒面粉，小成一声驴叫。有人在很远的地方说：下一家，可以来了。我闭上眼睛，笑了。这圈，我拉完了。",
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "4900000" },
+        { "type": "ITEM", "value": "donkey:1" }
+      ]
+    }
+  ]
+}

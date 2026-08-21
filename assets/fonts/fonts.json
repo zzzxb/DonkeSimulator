@@ -1,0 +1,14 @@
+{
+  "default": "sys_regular",
+  "fonts": [
+    {
+      "file": "sys_regular.otf",
+      "alias": "sys_regular",
+      "sizes": [14, 16, 20, 24, 32],
+      "color": "WHITE",
+      "borderWidth": 1,
+      "borderColor": "BLACK",
+      "enabled": true
+    }
+  ]
+}

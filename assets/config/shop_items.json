@@ -1,0 +1,105 @@
+{
+  "shopName": "商店",
+  "currencyIcon": "gold_icon",
+  "items": [
+    {
+      "id": "item_abacus",
+      "iconName": "store/abacus",
+      "name": "算盘",
+      "description": "标记磨盘是否推完一圈",
+      "price": 1,
+      "priceMultiplier": 1.0,
+      "initialStock": 1,
+      "maxStock": 1,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "1" }
+      ]
+    },
+    {
+      "id": "item_strength",
+      "iconName": "store/strength",
+      "name": "推磨力量",
+      "description": "减少点击次数",
+      "price": 2,
+      "priceMultiplier": 5,
+      "initialStock": 11,
+      "maxStock": 11,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "4" }
+      ]
+    },
+    {
+      "id": "item_speed",
+      "iconName": "store/speed",
+      "name": "推磨速度",
+      "description": "加快转动速度",
+      "price": 8,
+      "priceMultiplier": 10,
+      "initialStock": 6,
+      "maxStock": 6,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "13" }
+      ]
+    },
+    {
+      "id": "item_flour",
+      "iconName": "store/flour",
+      "name": "面粉产量",
+      "description": "提升面粉产出",
+      "price": 12,
+      "priceMultiplier": 2,
+      "initialStock": 999999,
+      "maxStock": 999999,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "19" }
+      ]
+    },
+    {
+      "id": "item_mill",
+      "iconName": "store/mill",
+      "name": "磨盘",
+      "description": "增加磨盘",
+      "price": 60,
+      "priceMultiplier": 1.6,
+      "initialStock": 47,
+      "maxStock": 47,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "120" }
+      ]
+    },
+    {
+      "id": "item_expand",
+      "iconName": "store/expand",
+      "name": "田地扩建",
+      "description": "提升磨盘上限",
+      "price": 100,
+      "priceMultiplier": 2.0,
+      "initialStock": 5,
+      "maxStock": 5,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "ITEM", "value": "mill:4" }
+      ]
+    },
+    {
+      "id": "item_donkey",
+      "iconName": "store/donkey",
+      "name": "小毛驴",
+      "description": "自动拉磨，解放双手",
+      "price": 49,
+      "priceMultiplier": 15.38,
+      "initialStock": 48,
+      "maxStock": 48,
+      "enable": true,
+      "unlock_conditions": [
+        { "type": "QUEST_COUNT", "value": "120" },
+        { "type": "ITEM", "value": "mill:1" }
+      ]
+    }
+  ]
+}

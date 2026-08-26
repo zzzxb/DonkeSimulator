@@ -36,7 +36,6 @@ public class Mill {
     public void update(float delta) {
         if (isRotating) {
             if (donkey != null) {
-                rotationDegrees = donkey.getRotationDegrees();
                 donkey.getSprite().rotate(rotationDegrees);
             }
             spriteTop.rotate(rotationDegrees);
